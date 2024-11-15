@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @Emin Cakar
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning To be a Software Developer
-- 📫 How to reach me E-mail: Emin.ck34@gmail.com
+👋 Hi, I'm Emin Cakar
 
-Ik ben een frontend software developer met een passie voor het creëren van gebruiksvriendelijke en visueel aantrekkelijke webapplicaties. Met ervaring in HTML, CSS, JavaScript en moderne frameworks zoals Tailwind en Bulma, richt ik me op het ontwikkelen van gebruikerservaring. Als developer bij de Bit Academy blijf ik mezelf voortdurend ontwikkelen en blijf ik op de hoogte van de nieuwste trends en technologieën in frontend development. Ik werk samen met andere developers om responsieve applicaties te bouwen, met als doel technologie toegankelijk en gebruiksvriendelijk te maken voor iedereen.
+🚀 Over mij
+Ik ben Emin Cakar, een 16-jarige frontend developer in opleiding uit Noord-Holland. Momenteel studeer ik aan de Bit Academy in Amsterdam, waar ik mijn vaardigheden verder ontwikkel en mijn passie voor programmeren en technologie steeds verder uitbreid.
 
+💻 Wat ik doe
+Ik houd me voornamelijk bezig met: coderen,voetballen.
 
+Frontend development: HTML, CSS, JavaScript
+Backend development: Python
+Ik ben altijd op zoek naar nieuwe uitdagingen en manieren om mijn kennis te verbreden en mijn vaardigheden te verbeteren. Mijn focus ligt bij het bouwen van gebruiksvriendelijke en visueel aantrekkelijke websites en applicaties.
 
+⚽ Wat ik leuk vind
+Naast programmeren, ben ik een fan van voetballen. Dit helpt me niet alleen om actief te blijven, maar het leert me ook teamwork en discipline — vaardigheden die ik ook toepas in mijn werk als developer.
+
+🛠️ Vaardigheden
+Frontend: HTML, CSS, JavaScript
+Backend: Python
+Tools: Git, Visual Studio Code, etc.
+📫 Contact
+Je kunt me bereiken via Emin.ck34@gmail.com.
